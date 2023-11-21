@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://github.com/it-harrison/repoman/compare/repoman-v3.0.0...repoman-v4.0.0) (2023-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* a big change
+
+### Bug Fixes
+
+* a big change ([1decb91](https://github.com/it-harrison/repoman/commit/1decb91c541b1ed91af70c1f80fa3c25a7fb33da))
+
 ## [3.0.0](https://github.com/it-harrison/repoman/compare/repoman-v2.0.1...repoman-v3.0.0) (2023-11-21)
 
 
