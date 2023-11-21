@@ -1,8 +1,14 @@
 {
   "packages": {
     ".": {},
-    "packages/pack-a": {},
-    "packages/pack-b": {},
-    "packages/pack-c": {}
+    "packages/pack-a": {
+      "component": "pack-a"
+    },
+    "packages/pack-b": {
+      "component": "pack-b"
+    },
+    "packages/pack-c": {
+      "component": "pack-c"
+    }
   }
 }
