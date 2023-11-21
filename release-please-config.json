@@ -1,0 +1,8 @@
+{
+  "packages": {
+    ".": {},
+    "packages/pack-a": {},
+    "packages/pack-b": {},
+    "packages/pack-c": {}
+  }
+}
