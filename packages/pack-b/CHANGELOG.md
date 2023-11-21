@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/it-harrison/repoman/compare/pack-b-v2.0.0...pack-b-v2.1.0) (2023-11-21)
+
+
+### Features
+
+* log four ([a08de03](https://github.com/it-harrison/repoman/commit/a08de03cb98bbe1fde55cd319489a79715de58a5))
+
 ## [2.0.0](https://github.com/it-harrison/repoman/compare/pack-b-v1.0.0...pack-b-v2.0.0) (2023-11-21)
 
 
