@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/it-harrison/repoman/compare/pack-c-v2.0.0...pack-c-v3.0.0) (2023-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* add const c
+
+### Features
+
+* add const c ([6540b08](https://github.com/it-harrison/repoman/commit/6540b08c14ed723d3a3e5401187854fc0537768e))
+
 ## [2.0.0](https://github.com/it-harrison/repoman/compare/pack-c-v1.0.0...pack-c-v2.0.0) (2023-11-21)
 
 
