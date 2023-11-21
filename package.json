@@ -1,6 +1,6 @@
 {
   "name": "repoman",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "main": "index.js",
   "repository": "git@github.com:it-harrison/repoman.git",
   "author": "Ian <harrison.ian.t@gmail.com>",
