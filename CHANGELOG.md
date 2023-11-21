@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/it-harrison/repoman/compare/repoman-v2.0.1...repoman-v3.0.0) (2023-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* add hello message
+
+### Bug Fixes
+
+* add hello message ([7646542](https://github.com/it-harrison/repoman/commit/764654211d13157a4012f36707f7674ce507bfb5))
+
 ## [2.0.1](https://github.com/it-harrison/repoman/compare/repoman-v2.0.0...repoman-v2.0.1) (2023-11-21)
 
 
