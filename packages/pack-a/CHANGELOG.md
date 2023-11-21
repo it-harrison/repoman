@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/it-harrison/repoman/compare/pack-a-v1.0.1...pack-a-v2.0.0) (2023-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* add variable
+
+### Bug Fixes
+
+* add variable ([464f6ad](https://github.com/it-harrison/repoman/commit/464f6adc7958dc1eeb57c7fc9d75d6841eff8267))
+
 ## [1.0.1](https://github.com/it-harrison/repoman/compare/pack-a-v1.0.0...pack-a-v1.0.1) (2023-11-21)
 
 
