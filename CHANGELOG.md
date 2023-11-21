@@ -1,5 +1,23 @@
 # Changelog
 
+## [5.0.0](https://github.com/it-harrison/repoman/compare/repoman-v4.0.0...repoman-v5.0.0) (2023-11-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* add const c
+* add variable
+
+### Features
+
+* add const c ([6540b08](https://github.com/it-harrison/repoman/commit/6540b08c14ed723d3a3e5401187854fc0537768e))
+* log four ([a08de03](https://github.com/it-harrison/repoman/commit/a08de03cb98bbe1fde55cd319489a79715de58a5))
+
+
+### Bug Fixes
+
+* add variable ([464f6ad](https://github.com/it-harrison/repoman/commit/464f6adc7958dc1eeb57c7fc9d75d6841eff8267))
+
 ## [4.0.0](https://github.com/it-harrison/repoman/compare/repoman-v3.0.0...repoman-v4.0.0) (2023-11-21)
 
 
