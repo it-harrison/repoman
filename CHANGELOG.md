@@ -1,5 +1,24 @@
 # Changelog
 
+## [7.0.0](https://github.com/it-harrison/repoman/compare/repoman-v6.0.0...repoman-v7.0.0) (2023-11-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* log five
+
+### Features
+
+* add const d to app.js of pack-a ([bbe7cb7](https://github.com/it-harrison/repoman/commit/bbe7cb75097441bc04c2b531f3c8b4b22418dd36))
+* create another constant ([b112ee6](https://github.com/it-harrison/repoman/commit/b112ee66c32ac8f4869fef4447ab364ae9e68838))
+
+
+### Bug Fixes
+
+* **a cool fix:** add yet another constant ([698582f](https://github.com/it-harrison/repoman/commit/698582fe3239218f7da68ed1de16ab3aa3fb5123))
+* add another constant ([02dda9b](https://github.com/it-harrison/repoman/commit/02dda9b529ada8a5cc81fea7e08cd15634824816))
+* log five ([5decb7d](https://github.com/it-harrison/repoman/commit/5decb7dfed97d35326452d74e09de7f867cfbabc))
+
 ## [6.0.0](https://github.com/it-harrison/repoman/compare/repoman-v5.0.0...repoman-v6.0.0) (2023-11-21)
 
 

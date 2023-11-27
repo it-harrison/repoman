@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/it-harrison/repoman/compare/pack-b-v2.1.0...pack-b-v3.0.0) (2023-11-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* log five
+
+### Bug Fixes
+
+* log five ([5decb7d](https://github.com/it-harrison/repoman/commit/5decb7dfed97d35326452d74e09de7f867cfbabc))
+
 ## [2.1.0](https://github.com/it-harrison/repoman/compare/pack-b-v2.0.0...pack-b-v2.1.0) (2023-11-21)
 
 
