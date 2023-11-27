@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.1.0](https://github.com/it-harrison/repoman/compare/pack-a-v3.0.0...pack-a-v3.1.0) (2023-11-27)
+
+
+### Features
+
+* add const d to app.js of pack-a ([bbe7cb7](https://github.com/it-harrison/repoman/commit/bbe7cb75097441bc04c2b531f3c8b4b22418dd36))
+
+
+### Bug Fixes
+
+* add another constant ([02dda9b](https://github.com/it-harrison/repoman/commit/02dda9b529ada8a5cc81fea7e08cd15634824816))
+
 ## [3.0.0](https://github.com/it-harrison/repoman/compare/pack-a-v2.0.0...pack-a-v3.0.0) (2023-11-21)
 
 
