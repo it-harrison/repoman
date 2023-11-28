@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/it-harrison/repoman/compare/pack-c-v3.1.0...pack-c-v3.2.0) (2023-11-28)
+
+
+### Features
+
+* log "f" ([abdbc46](https://github.com/it-harrison/repoman/commit/abdbc463eaebedba26bbfaead28df2acf3958253))
+
 ## [3.1.0](https://github.com/it-harrison/repoman/compare/pack-c-v3.0.0...pack-c-v3.1.0) (2023-11-27)
 
 
