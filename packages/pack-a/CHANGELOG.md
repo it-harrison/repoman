@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/it-harrison/repoman/compare/pack-a-v3.1.0...pack-a-v3.2.0) (2023-11-28)
+
+
+### Features
+
+* add some constant ([8fd4211](https://github.com/it-harrison/repoman/commit/8fd4211bbc4cb599b2dc45c4b7d75dba0cc978c8))
+
 ## [3.1.0](https://github.com/it-harrison/repoman/compare/pack-a-v3.0.0...pack-a-v3.1.0) (2023-11-27)
 
 
