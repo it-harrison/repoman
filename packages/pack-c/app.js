@@ -3,3 +3,4 @@ console.log('...hello once more');
 const c = 'a';
 const d = 'd';
 const e = 'e';
+const f = 'f';
